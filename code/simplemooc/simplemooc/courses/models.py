@@ -33,3 +33,7 @@ class Course(models.Model):
     updated_at = models.DateField('Atualizado em', auto_now = True)
 
     objects = CourseManager()
+
+    @models.permalink
+    def get_absolute_url(self):
+        return ('courses:details', (), {'slug': self.slug})
