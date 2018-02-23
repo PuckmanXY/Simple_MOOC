@@ -5,14 +5,14 @@
 This repo is the result of a free course from udemy (https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/learn/v4/overview), so thank you @gileno for the great classes and for making them avaliable for free!
 
 ## Requirements
-# - Python3 (specifically 3.5.4rc1)
+### - Python3 (specifically 3.5.4rc1)
 If you're in a debian-based linux distro, just go with
 `sudo apt-get python3`
 
-# - Django 1.9
+### - Django 1.9
 `pip install Django`
 
-# - Pillow library
+### - Pillow library
 `pip install Pillow`
 
 ## How-to guide
