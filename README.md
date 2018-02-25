@@ -18,7 +18,7 @@ If you're in a debian-based linux distro, just go with
 ## How-to guide
 
 1. Clone repository or download zip and extract somewhere
-2. In a terminal, access your [Virtual Envrironment](https://docs.python.org/3/library/venv.html "Setting a virtual environment up") folder and type `source activate`
+2. In a terminal, access your [Virtual Environment](https://docs.python.org/3/library/venv.html "Setting a virtual environment up") folder and type `source activate`
    - With this, you're sure using compatible python and django versions
 3. Now, go to Simple_MOOC/code/simplemooc and type `python manage.py runserver`
 4. Open your browser and go to `localhost:8000`
