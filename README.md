@@ -7,7 +7,7 @@ This repo is the result of a free course from udemy (https://www.udemy.com/pytho
 ## Requirements
 ### - Python3 (specifically 3.5.4rc1)
 If you're in a debian-based linux distro, just go with
-`sudo apt-get python3`
+`sudo apt-get install python3`
 
 ### - Django 1.9
 `pip install Django`
